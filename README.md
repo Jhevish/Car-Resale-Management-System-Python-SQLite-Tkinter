@@ -112,3 +112,10 @@ Using SQL joins and aggregate functions for business calculations
 Building a desktop GUI with Tkinter
 Structuring a Python project across multiple files
 Using Git and GitHub for version control
+
+<img width="432" height="400" alt="image" src="https://github.com/user-attachments/assets/de29bfd3-e505-4d17-a365-dc50f2cea034" />
+<img width="252" height="532" alt="image" src="https://github.com/user-attachments/assets/30e07db9-4dd4-4209-84d0-629081bdb845" />
+<img width="397" height="613" alt="image" src="https://github.com/user-attachments/assets/86c33683-b570-450a-9f39-ae3c831ba5f3" />
+
+
+
